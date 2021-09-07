@@ -92,7 +92,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 						$numImage = $labelplv_item['id_image'];
 					}
 					 ?>
-				<?php echo "<img src='https://www.oeildujour.com/$numImage-large_default/canape-lounge-set-almond-kodoext.jpg' alt=''/>" ?>
+				<?php echo "<img src='https://www.oeildujour.com/$numImage-home_default/canape-lounge-set-almond-kodoext.jpg' alt=''/>" ?>
 				<?php echo $labelplv_item['id_product'];?>
 				<?php echo $labelplv_item['reference'];?>
 				<?php echo $labelplv_item['description_short'];?>
